@@ -1,0 +1,5 @@
+firebase-admin>=6.4.0
+google-cloud-firestore>=2.16.0
+grpcio>=1.62.0
+requests>=2.31.0
+twilio>=9.0.0     # only if you use Twilio for SMS
